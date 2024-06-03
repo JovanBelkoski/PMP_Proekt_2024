@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PMP_aplikacija_2024</string>
-    <string name="default_web_client_id" translatable="false">785712438992-eot6ke29im7krmui90amau6vlvr01582.apps.googleusercontent.com</string>
 
     <string name="registracija">Регистрирај се</string>
     <string name="korisnickoime">Корисничко име</string>
@@ -83,6 +83,7 @@
         <item>Uppercase()</item>
         <item>CaseUpper()</item>
     </string-array>
+
 
     <string name="ocenka1">Одлично одговорено!!</string>
     <string name="ocenka2">Добро одговорено</string>
@@ -208,16 +209,17 @@
         <item>activity_main.xml</item>
     </string-array>
 
-    <string name="ocenkaaaa1">Одлично одговорено</string>
+    <string name="ocenkaaaa1">Одлично одговорено!</string>
     <string name="ocenkaaaa2">Многу добро одговорено</string>
     <string name="ocenkaaaa3">Средно одговорено</string>
     <string name="ocenkaaaa4">Обиди се повторно</string>
 
-    <string name="rezultatttt">Вашиот резултат: </string>
+    <string name="rezultatttt">Вашиот одговор: </string>
     <string name="izberiodgggq">Изберете одговор</string>
     <string name="naslovvvvv">Андроид Квиз</string>
     <string name="kopceeeeee">Следно</string>
     <string name="tocenodgovorrrr">Точни одговори: </string>
     <string name="rezzzz">Резултат: </string>
     <string name="pogresenodgovorrrr">Погрешни одговори: </string>
+
 </resources>
