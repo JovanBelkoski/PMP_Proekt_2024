@@ -2,65 +2,65 @@
 <resources>
     <string name="app_name">PMP_aplikacija_2024</string>
 
-    <string name="registracija">Регистрирај се</string>
-    <string name="korisnickoime">Корисничко име</string>
-    <string name="password">Пасворд</string>
-    <string name="register">Регистрирај се</string>
-    <string name="anonimna">Анонимна најава</string>
-    <string name="google">Google najava</string>
-    <string name="korisnik">Веќе сте корисник, кликни за да се најавиш</string>
+    <string name="registracija">Register</string>
+    <string name="korisnickoime">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="anonimna">Аnonymous login</string>
+    <string name="google">Google login</string>
+    <string name="korisnik">Already a user? Click here to login</string>
 
-    <string name="najava">Најави се</string>
-    <string name="vensiime">Корисничко име</string>
-    <string name="vnesipasvord">Пасворд</string>
-    <string name="Loginkopce">Логирај се</string>
-    <string name="anonimnokopce">Анонимно логирање</string>
-    <string name="googlekopce">Google логирање</string>
+    <string name="najava">Login</string>
+    <string name="vensiime">Username</string>
+    <string name="vnesipasvord">Password</string>
+    <string name="Loginkopce">Login</string>
+    <string name="anonimnokopce">Anonymous login</string>
+    <string name="googlekopce">Google login</string>
 
-    <string name="naslovkviz">КВИЗ</string>
-    <string name="javakviz">Јава квиз</string>
-    <string name="pajtonkviz">Пајтон квиз</string>
-    <string name="androidkviz">Андроид квиз</string>
-    <string name="isprati">Испрати</string>
+    <string name="naslovkviz">QUIZ</string>
+    <string name="javakviz">Java quiz</string>
+    <string name="pajtonkviz">Paython quiz</string>
+    <string name="androidkviz">Android quiz</string>
+    <string name="isprati">Send</string>
 
-    <string name="pole">Пополнете ги сите полиња</string>
-    <string name="uspesna">Успешна регистрација</string>
-    <string name="neuspesna">Неуспешна регистрација</string>
-    <string name="annajava">Анонимна најава успешна</string>
-    <string name="annajavaa">Анонимна најава неуспешна</string>
-    <string name="googlesucc">Google најава успешна</string>
-    <string name="googlefailed">Google најава неуспешна</string>
-    <string name="dodadenipodatoci">Податоците се додадени</string>
-    <string name="greskapodatoci">Грешка при додавање</string>
-    <string name="loginnajavauspesno">Успешно најавување</string>
-    <string name="pogresnoimepasvord">Погрешно корисничко име или пасворд</string>
+    <string name="pole">Fill in all the fields</string>
+    <string name="uspesna">Successful registration</string>
+    <string name="neuspesna">Failed registration</string>
+    <string name="annajava">Anonymous login successful</string>
+    <string name="annajavaa">Anonymous login failed</string>
+    <string name="googlesucc">Google login successful</string>
+    <string name="googlefailed">Google login failed</string>
+    <string name="dodadenipodatoci">Data has been added</string>
+    <string name="greskapodatoci">Error add data</string>
+    <string name="loginnajavauspesno">Successful login</string>
+    <string name="pogresnoimepasvord">Wrong username or password</string>
 
 
-    <string name="prasanje1">Која е точната синтакса за излезот „Hello World“ во Java?</string>
+    <string name="prasanje1">What is the correct syntax for outputting "Hello word" in java</string>
     <string-array name="odgovor1">
-        <item>Console.WriteLine("Hello word")</item>
-        <item>echo("Hello word")</item>
-        <item>print("Hello word")</item>
+        <item>Console.WriteLine(Hello word)</item>
+        <item>echo(Hello word)</item>
+        <item>print(Hello word)</item>
         <item>System.out.println("Hello word")</item>
     </string-array>
 
-    <string name="prasanje2">Дали Java е кратенка за JavaScript?</string>
+    <string name="prasanje2">Is Java short for JavaScript?</string>
     <string-array name="odgovor2">
-        <item>Се согласувам</item>
-        <item>Делумно се согласувам</item>
-        <item>Воопшто не е така</item>
-        <item>Мислам дека да</item>
+        <item>I agree</item>
+        <item>I partially agree</item>
+        <item>it s not like that at all</item>
+        <item>i think yes</item>
     </string-array>
 
-    <string name="prasanje3">Како вметнувате КОМЕНТАРИ во Java кодот?</string>
+    <string name="prasanje3">How do you insert COMMENTS in Java code?</string>
     <string-array name="odgovor3">
-        <item>#Коментар</item>
-        <item>//Коментар</item>
-        <item>.Коментар</item>
-        <item>*Коментар</item>
+        <item>#Commentar</item>
+        <item>//Commentar</item>
+        <item>.Commentar</item>
+        <item>*Commentar</item>
     </string-array>
 
-    <string name="prasanje4">Кој тип на податоци се користи за да се создаде променлива што треба да складира текст?</string>
+    <string name="prasanje4">What data type is used to create a variable that should store text?</string>
     <string-array name="odgovor4">
         <item>MyString</item>
         <item>string</item>
@@ -68,7 +68,7 @@
         <item>Txt</item>
     </string-array>
 
-    <string name="prasanje5">Кој метод може да се користи за да се најде должината на низата?</string>
+    <string name="prasanje5">Which method can be used to find the length of a string?</string>
     <string-array name="odgovor5">
         <item>length()</item>
         <item>len</item>
@@ -76,7 +76,7 @@
         <item>getSize()</item>
     </string-array>
 
-    <string name="prasanje6">Кој метод може да се користи за враќање на низа со големи букви?</string>
+    <string name="prasanje6">Which method can be used to return an uppercase string?</string>
     <string-array name="odgovor6">
         <item>toUpperCase()</item>
         <item>uppercase()</item>
@@ -85,45 +85,46 @@
     </string-array>
 
 
-    <string name="ocenka1">Одлично одговорено!!</string>
-    <string name="ocenka2">Добро одговорено</string>
-    <string name="ocenka3">Одговоривте средно</string>
-    <string name="ocenka4">Обиди се повторно</string>
-    <string name="rezultat">Вашиот одговор: </string>
-    <string name="izberiodg">Избери одговор</string>
-    <string name="naslovv">Јава Квиз</string>
-    <string name="kopceee">Следно</string>
+    <string name="ocenka1">Еxcellently answered</string>
+    <string name="ocenka2">Well answered</string>
+    <string name="ocenka3">You answered moderately</string>
+    <string name="ocenka4">Тry again</string>
 
-    <string name="tocenodgovor">Точни одговори: </string>
-    <string name="rez">Резултат: </string>
-    <string name="pogresenodgovor">Погрешни прашања: </string>
+    <string name="rezultat">Your answer: </string>
+    <string name="izberiodg">Choose an answer</string>
+    <string name="naslovv">Java Quiz</string>
+    <string name="kopceee">Next</string>
+    <string name="tocenodgovor">Correct Answer: </string>
+    <string name="rez">Result: </string>
+    <string name="pogresenodgovor">Wrong questions: </string>
 
 
-    <string name="prasanjee1">Кој од следните изрази е точен за да се печати "Hello, World!" во Python?</string>
+
+    <string name="prasanjee1">Which of the following statements is correct for printing "Hello, World!" in Python?</string>
     <string-array name="odgovorr1">
         <item>echo "Hello, World!</item>
-        <item>print("Hello, World!")</item>
-        <item>printf("Hello, World!")</item>
-        <item>System.out.println("Hello, World!")</item>
+        <item>print("Hello word")</item>
+        <item>print("Hello, world!")</item>
+        <item>System.out.println("Hello word")</item>
     </string-array>
 
-    <string name="prasanjee2">Која е точната синтакса за креирање на функција во Python?</string>
+    <string name="prasanjee2">What is the correct syntax for creating a function in Python?</string>
     <string-array name="odgovorr2">
-        <item>def myFunction:</item>
+        <item>def myFunction():</item>
         <item>function myFunction()</item>
         <item>create myFunction()</item>
-        <item>def myFunction():</item>
+        <item>def myFunction:</item>
     </string-array>
 
-    <string name="prasanjee3">Како се дефинира променлива со целобројна вредност во Python?</string>
+    <string name="prasanjee3">How do you define a variable with an integer value in Python?</string>
     <string-array name="odgovorr3">
         <item>int x = 10</item>
-        <item>x = int(10)</item>
         <item>x = 10</item>
+        <item>x = int(10)</item>
         <item>integer x = 10</item>
     </string-array>
 
-    <string name="prasanjee4">Која од следните наредби ќе додаде елемент во листа во Python?</string>
+    <string name="prasanjee4">Which of the following commands will add an element to a list in Python?</string>
     <string-array name="odgovorr4">
         <item>list.add(5)</item>
         <item>list.append(5)</item>
@@ -131,7 +132,7 @@
         <item>list.addElement(5)</item>
     </string-array>
 
-    <string name="prasanjee5">Како се креира коментар во Python?</string>
+    <string name="prasanjee5">How do you create a comment in Python?</string>
     <string-array name="odgovorr5">
         <item>// This is a comment</item>
         <item># This is a comment</item>
@@ -139,7 +140,7 @@
         <item>-- This is a comment</item>
     </string-array>
 
-    <string name="prasanjee6">Која функција се користи за да се добие должината на листа во Python?</string>
+    <string name="prasanjee6">Which function is used to get the length of a list in Python?</string>
     <string-array name="odgovorr6">
         <item>length(list)</item>
         <item>list.length()</item>
@@ -147,29 +148,30 @@
         <item>len(list)</item>
     </string-array>
 
-    <string name="ocenkaa1">Одлично одговорено!!</string>
-    <string name="ocenkaa2">Добро одговорено</string>
-    <string name="ocenkaa3">Одговоривте средно</string>
-    <string name="ocenkaa4">Обиди се повторно</string>
+    <string name="ocenkaa1">Еxcellently answered</string>
+    <string name="ocenkaa2">Well answered</string>
+    <string name="ocenkaa3">You answered moderately</string>
+    <string name="ocenkaa4">Тry again</string>
 
-    <string name="rezultatt">Вашиот резултат</string>
-    <string name="izberiodgg">Внесете одговор</string>
-    <string name="naslovvv">Пајтон Квиз</string>
-    <string name="kopceeee">Следно</string>
-    <string name="tocenodgovorr">Точни одговори: </string>
-    <string name="rezz">Резултат: </string>
-    <string name="pogresenodgovorr">Погрешни одговори: </string>
+    <string name="rezultatt">Your answer: </string>
+    <string name="izberiodgg">Choose an answer</string>
+    <string name="naslovvv">Paython Quiz</string>
+    <string name="kopceeee">Next</string>
+    <string name="tocenodgovorr">Correct Answer: </string>
+    <string name="rezz">Result: </string>
+    <string name="pogresenodgovorr">Wrong questions: </string>
 
 
-    <string name="prasanjeee1">Што е Android Studio?</string>
+
+    <string name="prasanjeee1">What is Android Studio?</string>
     <string-array name="odgovorrr1">
-        <item>Видео игра</item>
-        <item>Интегрирано развојно опкружување (IDE)</item>
-        <item>Оперативен систем</item>
-        <item>Антивирусна програма</item>
+        <item>Video game</item>
+        <item> Integrated Development Environment (IDE)</item>
+        <item>Operating system</item>
+        <item> Antivirus program</item>
     </string-array>
 
-    <string name="prasanjeee2">Која програмски јазик е основен за Android развој во Android Studio?</string>
+    <string name="prasanjeee2">Which programming language is primarily used for Android development in Android Studio?</string>
     <string-array name="odgovorrr2">
         <item>Python</item>
         <item>Ruby</item>
@@ -177,7 +179,7 @@
         <item>C#</item>
     </string-array>
 
-    <string name="prasanjeee3">Која алатка се користи за градење на Android апликации во Android Studio?</string>
+    <string name="prasanjeee3">Which tool is used for building Android applications in Android Studio?</string>
     <string-array name="odgovorrr3">
         <item>Maven</item>
         <item>Gradle</item>
@@ -185,7 +187,7 @@
         <item>Jenkins</item>
     </string-array>
 
-    <string name="prasanjeee4">Која датотека е главната точка за влез во Android апликација?</string>
+    <string name="prasanjeee4">Which file is the main entry point for an Android application?</string>
     <string-array name="odgovorrr4">
         <item>MainActivity.java</item>
         <item>build.gradle</item>
@@ -193,7 +195,7 @@
         <item>strings.xml</item>
     </string-array>
 
-    <string name="prasanjeee5">Како се вика основната класа која сите активности во Android ја наследуваат?</string>
+    <string name="prasanjeee5">What is the name of the base class that all activities in Android inherit from?</string>
     <string-array name="odgovorrr5">
         <item> Context</item>
         <item>View</item>
@@ -201,7 +203,7 @@
         <item>Fragment</item>
     </string-array>
 
-    <string name="prasanjeee6">Која датотека се користи за дефинирање на изгледот на корисничкиот интерфејс во Android Studio?</string>
+    <string name="prasanjeee6">Which file is used to define the layout of the user interface in Android Studio?</string>
     <string-array name="odgovorrr6">
         <item> layout.xml</item>
         <item>ui.xml</item>
@@ -209,17 +211,17 @@
         <item>activity_main.xml</item>
     </string-array>
 
-    <string name="ocenkaaaa1">Одлично одговорено!</string>
-    <string name="ocenkaaaa2">Многу добро одговорено</string>
-    <string name="ocenkaaaa3">Средно одговорено</string>
-    <string name="ocenkaaaa4">Обиди се повторно</string>
+    <string name="ocenkaaaa1">Еxcellently answered</string>
+    <string name="ocenkaaaa2">Well answered</string>
+    <string name="ocenkaaaa3">You answered moderately</string>
+    <string name="ocenkaaaa4">Тry again</string>
 
-    <string name="rezultatttt">Вашиот одговор: </string>
-    <string name="izberiodgggq">Изберете одговор</string>
-    <string name="naslovvvvv">Андроид Квиз</string>
-    <string name="kopceeeeee">Следно</string>
-    <string name="tocenodgovorrrr">Точни одговори: </string>
-    <string name="rezzzz">Резултат: </string>
-    <string name="pogresenodgovorrrr">Погрешни одговори: </string>
+    <string name="rezultatttt">Your answer: </string>
+    <string name="izberiodgggq">Choose an answer</string>
+    <string name="naslovvvvv">Android Quiz</string>
+    <string name="kopceeeeee">Next</string>
+    <string name="tocenodgovorrrr">Correct Answer: </string>
+    <string name="rezzzz">Result: </string>
+    <string name="pogresenodgovorrrr">Wrong questions: </string>
 
 </resources>
